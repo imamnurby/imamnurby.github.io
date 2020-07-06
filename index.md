@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imam Nur Bani Yusuf
-tagline: PhD Student at Singapore Management University
+tagline: PhD Student at SMU
 description:
 ---
 

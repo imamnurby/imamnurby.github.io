@@ -14,7 +14,7 @@ main:
     pdf: "https://doi.org/10.48550/arXiv.2307.00593"
     code: "https://github.com/haoxintu/LLM4CBI"
     bibtex: "https://dblp.org/rec/journals/corr/abs-2307-00593.bib"
-    notes: "Under review"
+    notes: "Journal (Under Review)"
     image: "./assets/img/llm4bci.png"
 
   - title: "Towards Automated Embedded Systems Programming"

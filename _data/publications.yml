@@ -25,8 +25,6 @@ main:
 
   - title: "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation"
     authors: "Haoxin Tu, Zhide Zhou, He Jiang, <strong> Imam Nur Bani Yusuf </strong>, Yuxian Li, Lingxiao Jiang"
-    # conference_short: ""
-    # conference: ""
     pdf: "https://doi.org/10.48550/arXiv.2307.00593"
     code: "https://github.com/haoxintu/LLM4CBI"
     bibtex: "https://dblp.org/rec/journals/corr/abs-2307-00593.bib"
@@ -52,18 +50,3 @@ main:
     conference: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
     pdf: "./assets/files/arduprog_ase23.pdf"
     code: "https://github.com/imamnurby/ArduProg"
-
-
-
-
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png

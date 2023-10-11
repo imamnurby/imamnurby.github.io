@@ -22,35 +22,45 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 ## Work Experiences
 
 * **Senior Teaching Assistant for CS422 (Reasoning, Planning, and Learning under Uncertainty)**
-  * August 2023 - present | Singapore Management University
+  * August 2023 - present
+  * Singapore Management University
   
 * **Senior Teaching Assistant for IS787 (Advanced Research Topics in Information Systems 2)**
-  * January 2023 - May 2023 | Singapore Management University
+  * January 2023 - May 2023
+  * Singapore Management University
 
 * **Research Intern**
-  * July 2019 - August 2019 | National Taiwan University of Science and Technology
+  * July 2019 - August 2019
+  * National Taiwan University of Science and Technology
   * Supervisor: Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ&hl=zh-TW&inst=14102473421921925766)
   * Topic: Software-Defined Base Station
 
 * **Head of Embedded System Assistants**
-  * January 2019 - May 2019 | Institut Teknologi Bandung
+  * January 2019 - May 2019
+  * Institut Teknologi Bandung
 
 * **Teaching Assistant for Digital System Design**
-  * August 2018 - December 2018 | Institut Teknologi Bandung
+  * August 2018 - December 2018
+  * Institut Teknologi Bandung
   
 * **IoT Engineer Intern**
-  * May 2018 - August 2018 | PT Lentera Bumi Nusantara, Indonesia
+  * May 2018 - August 2018
+  * PT Lentera Bumi Nusantara, Indonesia
 
 ## Organization Experiences
 
 * **Head of Project Management Division in Telecommunication Engineering Student Association**
-  * February 2018 - February 2019 | Institut Teknologi Bandung
+  * February 2018 - February 2019
+  * Institut Teknologi Bandung
 
 * **Team Captain of Firefighting Robotic Team**
-  * August 2017 - August 2018 | Institut Teknologi Bandung
+  * August 2017 - August 2018
+  * Institut Teknologi Bandung
 
 * **Team Manager of Firefighting Robotic Team**
-  * August 2017 - August 2018 | Institut Teknologi Bandung
+  * August 2017 - August 2018
+  * Institut Teknologi Bandung
+
 
 
 <!-- {% include_relative _includes/services.md %} -->

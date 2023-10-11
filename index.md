@@ -22,45 +22,35 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 ## Work Experiences
 
 * **Senior Teaching Assistant for CS422 (Reasoning, Planning, and Learning under Uncertainty)**
-  * Institution: Singapore Management University
-  * Duration: August 2023 - present
+  * August 2023 - present | Singapore Management University
   
 * **Senior Teaching Assistant for IS787 (Advanced Research Topics in Information Systems 2)**
-  * Institution: Singapore Management University
-  * Duration: January 2023 - May 2023
+  * January 2023 - May 2023 | Singapore Management University
 
 * **Research Intern**
-  * Institution: National Taiwan University of Science and Technology, Taiwan
-  * Duration: July 2019 - August 2019
+  * July 2019 - August 2019 | National Taiwan University of Science and Technology
   * Supervisor: Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ&hl=zh-TW&inst=14102473421921925766)
   * Topic: Software-Defined Base Station
 
 * **Head of Embedded System Assistants**
-  * Institution: Bandung Institute of Technology, Indonesia
-  * Duration: January 2019 - May 2019
+  * January 2019 - May 2019 | Institut Teknologi Bandung
 
 * **Teaching Assistant for Digital System Design**
-  * Institution: Bandung Institute of Technology, Indonesia
-  * Duration: August 2018 - December 2018
-
+  * August 2018 - December 2018 | Institut Teknologi Bandung
+  
 * **IoT Engineer Intern**
-  * Company: PT Lentera Bumi Nusantara, Indonesia
-  * Duration: May 2018 - August 2018
+  * May 2018 - August 2018 | PT Lentera Bumi Nusantara, Indonesia
 
 ## Organization Experiences
 
-* **Head of Project Management Division**
-  * Institution: Telecommunication Engineering Student Association, Bandung Institute of Technology, Indonesia
-  * Duration: February 2018 - February 2019
+* **Head of Project Management Division in Telecommunication Engineering Student Association**
+  * February 2018 - February 2019 | Institut Teknologi Bandung
 
 * **Team Captain of Firefighting Robotic Team**
-  * Institution: Bandung Institute of Technology, Indonesia
-  * Duration: August 2017 - August 2018
+  * August 2017 - August 2018 | Institut Teknologi Bandung
 
 * **Team Manager of Firefighting Robotic Team**
-  * Institution: Bandung Institute of Technology, Indonesia
-  * Duration: August 2017 - August 2018
-
+  * August 2017 - August 2018 | Institut Teknologi Bandung
 
 
 <!-- {% include_relative _includes/services.md %} -->

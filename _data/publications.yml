@@ -1,7 +1,7 @@
 main:
   - title: "BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems"
     authors: "Muhammad Hilmi Asyrofi, Zhou Yang, <strong> Imam Nur Bani Yusuf </strong>, Hong Jin Kang, Ferdian Thung, David Lo"
-    conference_short: "TSE"
+    # conference_short: "TSE"
     conference: "Transactions on Software Engineering"
     pdf: "https://arxiv.org/abs/2102.01859"
     code: "https://github.com/soarsmu/BiasFinder"
@@ -9,7 +9,7 @@ main:
   
   - title: "RecipeGen++: an automated trigger action programs generator"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang, David Lo"
-    conference_short: "ESEC/FSE 2022"
+    # conference_short: "ESEC/FSE 2022"
     conference: "30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2022, Singapore, Singapore, November 14-18, 2022"
     pdf: ".assets/files/recipegen_fse22.pdf"
     code: "https://github.com/imamnurby/RecipeGen"
@@ -17,7 +17,7 @@ main:
 
   - title: "Accurate generation of trigger-action programs with domain-adapted sequence-to-sequence learning"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang, David Lo"
-    conference_short: "ICPC 2022"
+    # conference_short: "ICPC 2022"
     conference: "30th IEEE/ACM International Conference on Program Comprehension, ICPC 2022, Virtual Event, May 16-17, 2022"
     pdf: ".assets/files/recipegen_icpc22.pdf"
     code: "https://github.com/imamnurby/RecipeGen-IFTTT-RP"
@@ -31,7 +31,7 @@ main:
 
   - title: "Automating Arduino Programming: From Hardware Setups to Sample Source Code Generation"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang"
-    conference_short: "MSR 2023"
+    # conference_short: "MSR 2023"
     conference: "20th IEEE/ACM International Conference on Mining Software Repositories, MSR 2023, Melbourne, Australia, May 15-16, 2023"
     pdf: ".assets/files/arduprog_msr23.pdf"
     code: "https://github.com/imamnurby/ArduProg"
@@ -39,14 +39,14 @@ main:
   
   - title: "Towards Automated Embedded Systems Programming"
     authors: "<strong> Imam Nur Bani Yusuf </strong>"
-    conference_short: "ICSE 2023 (Companion)"
+    # conference_short: "ICSE 2023 (Companion)"
     conference: "45th IEEE/ACM International Conference on Software Engineering: ICSE 2023 Companion Proceedings, Melbourne, Australia, May 14-20, 2023"
     pdf: "./assets/files/icse23_ds.pdf"
     bibtex: "https://dblp.org/rec/conf/icse/Yusuf23.bib"
   
   - title: "ArduinoProg: Towards Automating Arduino Programming"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang"
-    conference_short: "ASE 2023"
+    # conference_short: "ASE 2023"
     conference: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
     pdf: "./assets/files/arduprog_ase23.pdf"
     code: "https://github.com/imamnurby/ArduProg"

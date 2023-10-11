@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the School of Computer Science and Information Systems at Singapore Management University (SMU), working under the guidance of Associate Prof. [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/#gsc.tab=0) and Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). My research is centered around Language Models for Software Engineering (LM4SE). My interests span from developing novel language models tailored to address specific problem domains to enhancing the capabilities of language models through techniques such as fine-tuning and prompting. In the course of my Ph.D., I have delved into generative AI for several domains, including generating end-user programs and deducing program transformation rules for code refactoring and bug-fixing (on-going).
+I am a Ph.D. candidate at the School of Computer Science and Information Systems at Singapore Management University (SMU), working under the guidance of Associate Prof. [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/#gsc.tab=0) and Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). My research is centered around Language Models for Software Engineering (LM4SE). My interests span from developing novel language models tailored to address specific problem domains, to enhancing the capabilities of language models through techniques such as fine-tuning and prompting. In the course of my Ph.D., I have delved into generative AI for several domains, including generating end-user programs and deducing program transformation rules for code refactoring and bug-fixing (on-going).
 
 ## News
 
@@ -17,7 +17,7 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 {% include_relative _includes/publications.md %}
 
 ## Services
-* **Student Volunteer on ICSE 2023**
+* **Student Volunteer for ICSE 2023**
 
 ## Work Experiences
 

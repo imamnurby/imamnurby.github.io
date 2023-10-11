@@ -12,8 +12,6 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 - **August 2022**: My tool paper on automated trigger-action programming is accepted at ESEC/FSE 2022.
 - **March 2022**: My long paper on trigger-action programming is accepted at ICPC 2022.
 
-
-
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

@@ -1,22 +1,69 @@
 main:
+  - title: "BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems"
+    authors: "Muhammad Hilmi Asyrofi, Zhou Yang, <strong> Imam Nur Bani Yusuf </strong>, Hong Jin Kang, Ferdian Thung, David Lo"
+    conference_short: "TSE"
+    conference: "Transactions on Software Engineering"
+    pdf: "https://arxiv.org/abs/2102.01859"
+    code: "https://github.com/soarsmu/BiasFinder"
+    bibtex: "https://dblp.org/rec/journals/corr/abs-2102-01859.bib"
+  
+  - title: "RecipeGen++: an automated trigger action programs generator"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang, David Lo"
+    conference_short: "ESEC/FSE 2022"
+    conference: "30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2022, Singapore, Singapore, November 14-18, 2022"
+    pdf: ".assets/files/recipegen_fse22.pdf"
+    code: "https://github.com/imamnurby/RecipeGen"
+    bibtex: "https://dblp.org/rec/conf/sigsoft/YusufJJ022.bib"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Accurate generation of trigger-action programs with domain-adapted sequence-to-sequence learning"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang, David Lo"
+    conference_short: "ICPC 2022"
+    conference: "30th IEEE/ACM International Conference on Program Comprehension, ICPC 2022, Virtual Event, May 16-17, 2022"
+    pdf: ".assets/files/recipegen_icpc22.pdf"
+    code: "https://github.com/imamnurby/RecipeGen-IFTTT-RP"
+    bibtex: "https://dblp.org/rec/conf/iwpc/YusufJ022.bib"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation"
+    authors: "Haoxin Tu, Zhide Zhou, He Jiang, <strong> Imam Nur Bani Yusuf </strong>, Yuxian Li, Lingxiao Jiang"
+    # conference_short: ""
+    # conference: ""
+    pdf: "https://doi.org/10.48550/arXiv.2307.00593"
+    code: "https://github.com/haoxintu/LLM4CBI"
+    bibtex: "https://dblp.org/rec/journals/corr/abs-2307-00593.bib"
+
+  - title: "Automating Arduino Programming: From Hardware Setups to Sample Source Code Generation"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang"
+    conference_short: "MSR 2023"
+    conference: "20th IEEE/ACM International Conference on Mining Software Repositories, MSR 2023, Melbourne, Australia, May 15-16, 2023"
+    pdf: ".assets/files/arduprog_msr23.pdf"
+    code: "https://github.com/imamnurby/ArduProg"
+    bibtex: "https://dblp.org/rec/conf/msr/YusufJJ23.bib"
+  
+  - title: "Towards Automated Embedded Systems Programming"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>"
+    conference_short: "ICSE 2023 (Companion)"
+    conference: "45th IEEE/ACM International Conference on Software Engineering: ICSE 2023 Companion Proceedings, Melbourne, Australia, May 14-20, 2023"
+    pdf: "./assets/files/icse23_ds.pdf"
+    bibtex: "https://dblp.org/rec/conf/icse/Yusuf23.bib"
+  
+  - title: "ArduinoProg: Towards Automating Arduino Programming"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang"
+    conference_short: "ASE 2023"
+    conference: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
+    pdf: "./assets/files/arduprog_ase23.pdf"
+    code: "https://github.com/imamnurby/ArduProg"
+
+
+
+
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

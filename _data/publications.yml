@@ -6,6 +6,7 @@ main:
     pdf: "https://imamnurby.github.io/assets/files/arduprog_ase23.pdf"
     code: "https://github.com/imamnurby/ArduProg"
     notes: "Tool Paper"
+    image: ".assets/img/arduinoprog_ase23.png"
 
   - title: "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation"
     authors: "Haoxin Tu, Zhide Zhou, He Jiang, <strong> Imam Nur Bani Yusuf </strong>, Yuxian Li, Lingxiao Jiang"
@@ -14,6 +15,7 @@ main:
     code: "https://github.com/haoxintu/LLM4CBI"
     bibtex: "https://dblp.org/rec/journals/corr/abs-2307-00593.bib"
     notes: "Under review"
+    image: ".assets/img/llm4bci.png"
 
   - title: "Towards Automated Embedded Systems Programming"
     authors: "<strong> Imam Nur Bani Yusuf </strong>"
@@ -22,6 +24,7 @@ main:
     pdf: "https://imamnurby.github.io/assets/files/icse23_ds.pdf"
     bibtex: "https://dblp.org/rec/conf/icse/Yusuf23.bib"
     notes: "Short Paper"
+    image: ".assets/img/arduinoprog_ase23.png"
 
   - title: "Automating Arduino Programming: From Hardware Setups to Sample Source Code Generation"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang"
@@ -31,6 +34,7 @@ main:
     code: "https://github.com/imamnurby/ArduProg"
     bibtex: "https://dblp.org/rec/conf/msr/YusufJJ23.bib"
     notes: "Long Paper"
+    image: ".assets/img/arduinoprog_msr23.png"
 
   - title: "RecipeGen++: an automated trigger action programs generator"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Diyanah Binte Abdul Jamal, Lingxiao Jiang, David Lo"
@@ -40,6 +44,7 @@ main:
     code: "https://github.com/imamnurby/RecipeGen"
     bibtex: "https://dblp.org/rec/conf/sigsoft/YusufJJ022.bib"
     notes: "Tool Paper"
+    image: ".assets/img/recipegen_fse22.png"
 
   - title: "Accurate generation of trigger-action programs with domain-adapted sequence-to-sequence learning"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang, David Lo"
@@ -49,6 +54,7 @@ main:
     code: "https://github.com/imamnurby/RecipeGen-IFTTT-RP"
     bibtex: "https://dblp.org/rec/conf/iwpc/YusufJ022.bib"
     notes: "Long Paper"
+    image: ".assets/img/recipegen_icpc22.png"
 
   - title: "BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems"
     authors: "Muhammad Hilmi Asyrofi, Zhou Yang, <strong> Imam Nur Bani Yusuf </strong>, Hong Jin Kang, Ferdian Thung, David Lo"
@@ -58,3 +64,4 @@ main:
     code: "https://github.com/soarsmu/BiasFinder"
     bibtex: "https://dblp.org/rec/journals/corr/abs-2102-01859.bib"
     notes: "Journal"
+    image: ".assets/img/biasfinder.png"

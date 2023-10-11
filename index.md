@@ -16,4 +16,51 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 
 {% include_relative _includes/publications.md %}
 
+## Services
+* **Student Volunteer on ICSE 2023**
+
+## Work Experiences
+
+* **Senior Teaching Assistant for CS422 (Reasoning, Planning, and Learning under Uncertainty)**
+  * Institution: Singapore Management University
+  * Duration: August 2023 - December 2023
+
+* **Senior Teaching Assistant for IS787 (Advanced Research Topics in Information Systems 2)**
+  * Institution: Singapore Management University
+  * Duration: January 2023 - May 2023
+
+* **Research Intern**
+  * Institution: National Taiwan University of Science and Technology, Taiwan
+  * Duration: July 2019 - August 2019
+  * Supervisor: Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ&hl=zh-TW&inst=14102473421921925766)
+  * Topic: Software-Defined Base Station
+
+* **Head of Embedded System Assistants**
+  * Institution: Bandung Institute of Technology, Indonesia
+  * Duration: January 2019 - May 2019
+
+* **Teaching Assistant for Digital System Design**
+  * Institution: Bandung Institute of Technology, Indonesia
+  * Duration: August 2018 - December 2018
+
+* **IoT Engineer Intern**
+  * Company: PT Lentera Bumi Nusantara, Indonesia
+  * Duration: May 2018 - August 2018
+
+## Organization Experiences
+
+* **Head of Project Management Division**
+  * Institution: Telecommunication Engineering Student Association, Bandung Institute of Technology, Indonesia
+  * Duration: February 2018 - February 2019
+
+* **Team Captain of Firefighting Robotic Team**
+  * Institution: Bandung Institute of Technology, Indonesia
+  * Duration: August 2017 - August 2018
+
+* **Team Manager of Firefighting Robotic Team**
+  * Institution: Bandung Institute of Technology, Indonesia
+  * Duration: August 2017 - August 2018
+
+
+
 <!-- {% include_relative _includes/services.md %} -->

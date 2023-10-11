@@ -23,8 +23,8 @@ I am a Ph.D. candidate at the School of Computer Science and Information Systems
 
 * **Senior Teaching Assistant for CS422 (Reasoning, Planning, and Learning under Uncertainty)**
   * Institution: Singapore Management University
-  * Duration: August 2023 - December 2023
-
+  * Duration: August 2023 - present
+  
 * **Senior Teaching Assistant for IS787 (Advanced Research Topics in Information Systems 2)**
   * Institution: Singapore Management University
   * Duration: January 2023 - May 2023

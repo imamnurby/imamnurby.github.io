@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the School of Computer Science and Information Systems at Singapore Management University (SMU). I am a member of the RiSE Lab (Centre for Research on Intelligent Software Engineering) and conduct my research under the supervision of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/#gsc.tab=0) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/). Notably, SMU is ranked fifth globally in software engineering research according to [CSRanking](https://csrankings.org/#/fromyear/1970/toyear/2024/index?none&world).
+I am a Ph.D. candidate at the School of Computer Science and Information Systems at Singapore Management University (SMU). I am a member of the RiSE Lab (Centre for Research on Intelligent Software Engineering) and conduct my research under the supervision of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/#gsc.tab=0) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/). Notably, SMU is ranked fourth globally in software engineering research according to [CSRanking](https://csrankings.org/#/index?soft&world).
 
-My primary interest is domain adaptation for deep learning. At the beginning of my Ph.D., I focused on adapting language models for domain-specific code generation. This included projects on Trigger-Action programs (ICPC 2022, FSE Demo 2022) and Arduino applications (MSR 2023, ASE Demo 2023). Recently, as language models have become larger and more capable, I have shifted my focus to developing techniques for efficiently adapting these large models through fine-tuning and agentic workflows.
+My primary interest is domain adaptation for deep learning. At the beginning of my Ph.D., I focused on adapting language models for domain-specific code generation. This included projects on Trigger-Action programs (ICPC 2022, FSE Demo 2022) and Arduino applications (MSR 2023, ASE Demo 2023). Recently, as language models have become larger and more capable, I have shifted my focus to developing techniques for efficiently adapting these large models through fine-tuning (Under Submission) and agentic workflows (On-going Work).
+
+I am also interested in deep learning research in general. I have explored a wide range of topics, such as bias in sentiment analysis models (TSE), instruction fine-tuning (Arxiv), compiler bug isolation (TSE), and benchmarking LLMs for instruction-following in code generation (Under Submission). 
 
 ## News
 - **July 2024**: A co-authored paper on [LLM for compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) is accepted at Transactions on Software Engineering

@@ -1,4 +1,14 @@
 main:
+  - title: "Isolating Compiler Bugs by Generating Effective Witness Programs With Large Language Models"
+    authors: "Haoxin Tu, Zhide Zhou, He Jiang, <strong> Imam Nur Bani Yusuf </strong>, Yuxian Li, Lingxiao Jiang"
+    conference_short: "TSE"
+    conference: "Transactions on Software Engineering"
+    pdf: "https://ieeexplore.ieee.org/abstract/document/10521881"
+    code: "https://github.com/haoxintu/LLM4CBI"
+    bibtex: "https://dblp.org/rec/journals/tse/TuZJYLJ24.bib"
+    notes: "Journal"
+    image: "./assets/img/llm4bci.png"
+
   - title: "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions"
     authors: "Terry Yue Zhuo, Vu Minh Chien, Jenny Chim, Han Hu, Wenhao Yu, Ratnadira Widyasari, <strong> Imam Nur Bani Yusuf </strong>, Haolan Zhan, Junda He, Indraneil Paul, Simon Brunner, Chen GONG, James Hoang, Armel Randy Zebaze, Xiaoheng Hong, Wen-Ding Li, Jean Kaddour, Ming Xu, Zhihan Zhang, Prateek Yadav et al."
     conference_short: "Under Submission"
@@ -25,15 +35,6 @@ main:
     code: "https://github.com/imamnurby/ArduProg"
     notes: "Tool Paper"
     image: "./assets/img/arduinoprog_ase23.png"
-
-  - title: "LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation"
-    authors: "Haoxin Tu, Zhide Zhou, He Jiang, <strong> Imam Nur Bani Yusuf </strong>, Yuxian Li, Lingxiao Jiang"
-    conference_short: "Journal"
-    pdf: "https://doi.org/10.48550/arXiv.2307.00593"
-    code: "https://github.com/haoxintu/LLM4CBI"
-    bibtex: "https://dblp.org/rec/journals/corr/abs-2307-00593.bib"
-    notes: "Journal (Under Review)"
-    image: "./assets/img/llm4bci.png"
 
   - title: "Towards Automated Embedded Systems Programming"
     authors: "<strong> Imam Nur Bani Yusuf </strong>"

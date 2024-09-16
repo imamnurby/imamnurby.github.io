@@ -10,14 +10,14 @@ My primary interest is domain adaptation for deep learning. At the beginning of 
 
 ## News
 - **July 2024**: A co-authored paper on [LLM for compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) is accepted at Transactions on Software Engineering
-- **May 2024**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) from BigCode community is released!
+- **May 2024**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) from BigCode community is released
 - **March 2024**: I joined [BigCode](https://www.bigcode-project.org/) community and contributed to BigCodeBench
-- **January 2024**: My side project on instruction fine-tuning has been published on [arXiv](https://arxiv.org/pdf/2401.07466).
-- **August 2023**: My tool paper on automated Arduino programming is accepted at ASE 2023.
-- **March 2023**: My short paper on automated Arduino programming is accepted at the Doctoral Symposium, ICSE 2023.
-- **March 2023**: My long paper on automated Arduino programming is accepted at MSR 2023.
-- **August 2022**: My tool paper on automated trigger-action programming is accepted at ESEC/FSE 2022.
-- **March 2022**: My long paper on trigger-action programming is accepted at ICPC 2022.
+- **January 2024**: My side project on instruction fine-tuning has been published on [arXiv](https://arxiv.org/pdf/2401.07466)
+- **August 2023**: My tool paper on automated Arduino programming is accepted at ASE 2023
+- **March 2023**: My short paper on automated Arduino programming is accepted at the Doctoral Symposium, ICSE 2023
+- **March 2023**: My long paper on automated Arduino programming is accepted at MSR 2023
+- **August 2022**: My tool paper on automated trigger-action programming is accepted at ESEC/FSE 2022
+- **March 2022**: My long paper on trigger-action programming is accepted at ICPC 2022
 
 {% include_relative _includes/publications.md %}
 

@@ -14,6 +14,7 @@ main:
     conference_short: "Under Submission"
     conference: ""
     pdf: "https://arxiv.org/pdf/2406.15877"  # Replace with the actual link to the PDF if available
+    bibtex: "https://dblp.org/rec/journals/corr/abs-2406-15877.bib"
     code: "https://github.com/bigcode-project/bigcodebench"  # Add a link to the code repository if available
     notes: "Long Paper"
     image: ""  # Add an image link if applicable
@@ -23,6 +24,7 @@ main:
     conference_short: "arXiv 2024"
     conference: ""
     pdf: "https://arxiv.org/pdf/2401.07466"
+    bibtex: "https://dblp.org/rec/journals/corr/abs-2401-07466.bib"
     code: ""  # Add the relevant link if code is available
     notes: "Long Paper"
     image: ""  # Add an image link if applicable
@@ -32,6 +34,7 @@ main:
     conference_short: "ASE 2023"
     conference: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
     pdf: "https://imamnurby.github.io/assets/files/arduprog_ase23.pdf"
+    bibtex: "https://dblp.org/rec/conf/kbse/YusufJJ23.bib"
     code: "https://github.com/imamnurby/ArduProg"
     notes: "Tool Paper"
     image: "./assets/img/arduinoprog_ase23.png"

@@ -11,6 +11,8 @@ My primary interest is domain adaptation for deep learning. At the beginning of 
 I am also interested in deep learning research in general. I have explored a wide range of topics, such as bias in sentiment analysis models (TSE), instruction fine-tuning (Arxiv), compiler bug isolation (TSE), and benchmarking LLMs for instruction-following in code generation (Under Submission). 
 
 ## News
+- **April 2025**: A co-authored paper on C-to-Rust translation has been accepted at ICECCS 2025!
+- **January 2025**: BigCodeBench has been accepted at ICLR 2025! Congrats to the whole team!
 - **July 2024**: A co-authored paper on [LLM for compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) is accepted at Transactions on Software Engineering
 - **May 2024**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) from BigCode community is released
 - **March 2024**: I joined [BigCode](https://www.bigcode-project.org/) community and contributed to BigCodeBench
@@ -24,8 +26,11 @@ I am also interested in deep learning research in general. I have explored a wid
 {% include_relative _includes/publications.md %}
 
 ## Services and Volunteers
-* **Senior Teaching Assistant for CS462 Internet of Things: Technology and Applications**, August 2024 - present, SMU
-* **Senior Teaching Assistant for IS614 Internet of Things: Technology and Applications**, August 2024 - present, SMU
+* **Student Volunteer**, ICLR 2025
+* **Senior Teaching Assistant for CS708 Mobile and Distributed Systems**, January 2025 - May 2025, SMU
+* **Senior Teaching Assistant for IS453 Financial Analytics**, January 2025 - May 2025, SMU
+* **Senior Teaching Assistant for CS462 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
+* **Senior Teaching Assistant for IS614 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
 * **Student Volunteer**, WWW 2024
 * **Student Volunteer**, ICSE 2023
 * **Senior Teaching Assistant for CS422 Reasoning, Planning, and Learning under Uncertainty**, August 2023 - December 2023, SMU

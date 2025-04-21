@@ -1,11 +1,22 @@
-main:
-  - title: "Efficient Fine-tuning using Code Property Graph for Code Comprehension and Code Generation"
+main:  
+  - title: "RustMap: Towards Project-Scale C-to-Rust Migration via LLM and Program Analysis"
+    authors: "Xuemeng Cai, Jiakun Liu, Xiping Huang, Yijun Yu, Haitao Wu, Chunmiao Li, Bo Wang, <strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang"
+    conference_short: ""
+    conference: "The 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025)"
+    pdf: "https://arxiv.org/abs/2503.17741v1"
+    code: "https://github.com/Cxm211/RustMap"
+    bibtex: "https://dblp.org/rec/journals/corr/abs-2503-17741.bib"
+    notes: "Long Paper"
+    image: ""
+
+  
+  - title: "Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang"
     conference_short: ""
     conference: "Under Submission"
-    pdf: ""
-    code: ""
-    bibtex: ""
+    pdf: "https://arxiv.org/abs/2412.13467"
+    code: "https://github.com/imamnurby/Transducer-Tuning"
+    bibtex: "https://dblp1.uni-trier.de/rec/journals/corr/abs-2412-13467.bib"
     notes: "Long Paper"
     image: ""
 

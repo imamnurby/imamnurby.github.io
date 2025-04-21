@@ -11,17 +11,12 @@ My research focuses on applying language models to solve domain-specific challen
 I am actively seeking industry or postdoctoral positions where I can apply my expertise in applied deep learning. My ideal role would allow me to bridge cutting-edge research with practical applications, continuing to develop efficient techniques for adapting large language models to specialized domains. If you're interested in discussing potential collaborations or opportunities, please don't hesitate to reach out via email.
 
 ## News
-- **April 2025**: A co-authored paper on C-to-Rust translation has been accepted at ICECCS 2025!
+- **April 2025**: A co-authored paper on [C-to-Rust translation](https://arxiv.org/abs/2503.17741v1) has been accepted at ICECCS 2025!
 - **January 2025**: BigCodeBench has been accepted at ICLR 2025! Congrats to the whole team!
 - **July 2024**: A co-authored paper on [LLM for compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) is accepted at Transactions on Software Engineering
 - **May 2024**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) from BigCode community is released
 - **March 2024**: I joined [BigCode](https://www.bigcode-project.org/) community and contributed to BigCodeBench
 - **January 2024**: My side project on instruction fine-tuning has been published on [arXiv](https://arxiv.org/pdf/2401.07466)
-- **August 2023**: My tool paper on automated Arduino programming is accepted at ASE 2023
-- **March 2023**: My short paper on automated Arduino programming is accepted at the Doctoral Symposium, ICSE 2023
-- **March 2023**: My long paper on automated Arduino programming is accepted at MSR 2023
-- **August 2022**: My tool paper on automated trigger-action programming is accepted at ESEC/FSE 2022
-- **March 2022**: My long paper on trigger-action programming is accepted at ICPC 2022
 
 {% include_relative _includes/publications.md %}
 

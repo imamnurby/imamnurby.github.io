@@ -22,8 +22,8 @@ My research focuses on applying language models to solve domain-specific challen
 
 ## Services and Volunteers
 * **Student Volunteer**, ICLR 2025
-* **Senior Teaching Assistant for CS708 Mobile and Distributed Systems**, January 2025 - May 2025, SMU
-* **Senior Teaching Assistant for IS453 Financial Analytics**, January 2025 - May 2025, SMU
+* **Senior Teaching Assistant for CS708 Mobile and Distributed Systems**, January 2025 - Present, SMU
+* **Senior Teaching Assistant for IS453 Financial Analytics**, January 2025 - Present, SMU
 * **Senior Teaching Assistant for CS462 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
 * **Senior Teaching Assistant for IS614 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
 * **Student Volunteer**, WWW 2024

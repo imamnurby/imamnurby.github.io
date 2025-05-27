@@ -1,4 +1,14 @@
 main:
+  - title: "Deep Learning-Based Automatic Semantic Patch Generation for the Linux Kernel: How Far Are We?"
+    authors: "<strong> Imam Nur Bani Yusuf </strong>, Xiping Huang, Julia Lawall, Lingxiao Jiang, David Lo, Nghi D. Q. Bui, Chunmiao Li, Haitao Wu, Yijun Yu"
+    conference_short: ""
+    conference: "Under Submission"
+    pdf: "https://imamnurby.github.io/assets/files/_EMSE__SMPL_Project_3.0.pdf"
+    code: ""
+    bibtex: ""
+    notes: "Long Paper"
+    image: ""
+
   - title: "Dual Learning of Code Transformation Patterns from Demonstrations with Generation-Discrimination Objectives"
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Lingxiao Jiang"
     conference_short: ""

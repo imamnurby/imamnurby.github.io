@@ -3,7 +3,7 @@ main:
     authors: "<strong> Imam Nur Bani Yusuf </strong>, Xiping Huang, Julia Lawall, Lingxiao Jiang, David Lo, Nghi D. Q. Bui, Chunmiao Li, Haitao Wu, Yijun Yu"
     conference_short: ""
     conference: "Under Submission"
-    pdf: "https://imamnurby.github.io/assets/files/_EMSE__SMPL_Project_3.0.pdf"
+    pdf: "https://imamnurby.github.io/assets/files/spatch_emsse.pdf"
     code: ""
     bibtex: ""
     notes: "Long Paper"

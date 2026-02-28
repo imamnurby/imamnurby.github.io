@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at [SPARTAN, National University of Singapore](https://spartan-nus.github.io/), advised by Professor [Abhik Roychoudhury](https://abhikrc.com/). My research focuses on building capable, reliable, and trustworthy AI systems for software engineering.
+I am a postdoctoral researcher at [SPARTAN, National University of Singapore](https://spartan-nus.github.io/), advised by Professor [Abhik Roychoudhury](https://abhikrc.com/). My research focuses on building capable, reliable, and trustworthy AI systems for software engineering using program analysis techniques. 
 
-I received my PhD from Singapore Management University under the mentorship of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/).
+I received my PhD from Singapore Management University under the mentorship of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/). 
 
 ---
 

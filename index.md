@@ -28,7 +28,7 @@ I received my PhD from Singapore Management University under the mentorship of P
 
 ## Service & Teaching
 
-**Program Committees & Volunteering**
+**Volunteering**
 - Student Volunteer — ICLR 2025, WWW 2024, ICSE 2023
 
 **Teaching (Singapore Management University)**

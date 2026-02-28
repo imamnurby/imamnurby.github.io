@@ -11,8 +11,8 @@ I received my PhD from Singapore Management University under the mentorship of P
 ---
 
 ## Research Interests
-- **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks (e.g., [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable and dependable model predictions are in practice.
 - **Novel LLM scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS'25](https://arxiv.org/abs/2503.17741v1)).
+- **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks (e.g., [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable and dependable model predictions are in practice.
 - **Empirical studies of LLM behavior**: I conduct empirical analyses to better understand where current approaches succeed, where they fail, and what design choices improve performance and reliability in practice (e.g., [EMSE submission](https://imamnurby.github.io/assets/files/spatch_emse.pdf); [arXiv 2024](https://arxiv.org/pdf/2401.07466)).
 
 ---

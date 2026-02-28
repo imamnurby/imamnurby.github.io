@@ -47,7 +47,7 @@ I received my PhD from Singapore Management University under the mentorship of P
 ## Experience
 
 **Research Intern** · National Taiwan University of Science and Technology
-*Jul–Aug 2019 · Taipei, Taiwan*
+*Jul–Aug 2019 · Taiwan*
 Investigated Software-Defined Base Station architectures under the supervision of Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ).
 
 **IoT Engineer Intern** · PT Lentera Bumi Nusantara

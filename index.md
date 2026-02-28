@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at [SPARTAN, National University of Singapore](https://spartan-nus.github.io/), advised by Professor [Abhik Roychoudhury](https://abhikrc.com/). My research focuses on building capable, reliable, and trustworthy AI systems for software engineering, with an emphasis on coding agents and program analysis.
+I am a postdoctoral researcher at [SPARTAN, National University of Singapore](https://spartan-nus.github.io/), advised by Professor [Abhik Roychoudhury](https://abhikrc.com/). My research focuses on building capable, reliable, and trustworthy AI systems for software engineering.
 
 I received my PhD from Singapore Management University under the mentorship of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/).
 
 ---
 
 ## Research Interests
-- **Novel LLM scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS'25](https://arxiv.org/abs/2503.17741v1)).
-- **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks (e.g., [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable, and dependable model predictions are in practice.
+- **Novel LLM scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS 2025](https://arxiv.org/abs/2503.17741v1)).
+- **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks ([BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable, and dependable model predictions are in practice ([TSE](https://arxiv.org/abs/2102.01859)).
 - **Empirical studies of LLM behavior**: I conduct empirical analyses to better understand where current approaches succeed, where they fail, and what design choices improve performance and reliability in practice (e.g., [EMSE submission](https://imamnurby.github.io/assets/files/spatch_emse.pdf); [arXiv 2024](https://arxiv.org/pdf/2401.07466)).
 
 ---

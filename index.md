@@ -12,18 +12,15 @@ I received my PhD from Singapore Management University under the mentorship of P
 
 ## Research Interests
 - **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks (e.g., [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable and dependable model predictions are in practice.
-- **Novel scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS'25](https://arxiv.org/abs/2503.17741v1)).
-- **Empirical studies of LLM behavior**: I conduct empirical analyses to better understand where current approaches succeed, where they fail, and what design choices improve reliability in practice (e.g., [EMSE submission](https://imamnurby.github.io/assets/files/spatch_emse.pdf); [arXiv 2024](https://arxiv.org/pdf/2401.07466)).
+- **Novel LLM scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS'25](https://arxiv.org/abs/2503.17741v1)).
+- **Empirical studies of LLM behavior**: I conduct empirical analyses to better understand where current approaches succeed, where they fail, and what design choices improve performance and reliability in practice (e.g., [EMSE submission](https://imamnurby.github.io/assets/files/spatch_emse.pdf); [arXiv 2024](https://arxiv.org/pdf/2401.07466)).
 
 ---
 
 ## News
-
-- **Apr 2025**: Paper on [C-to-Rust translation](https://arxiv.org/abs/2503.17741v1) accepted at **ICECCS 2025**
-- **Jan 2025**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) accepted at **ICLR 2025**
-- **Jul 2024**: Co-authored paper on [LLM-assisted compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) accepted at **IEEE Transactions on Software Engineering**
-- **May 2024**: BigCodeBench publicly released by the [BigCode](https://www.bigcode-project.org/) community
-- **Jan 2024**: Preprint on instruction fine-tuning published on [arXiv](https://arxiv.org/pdf/2401.07466)
+- **Nov 2025**: I give a guest lecture at Faculty of Science and Technology, Universitas Airlangga, Indonesia. The recording in Bahasa Indonesia is available [here](https://www.youtube.com/watch?v=rbU1PCeW0h8).
+- **Apr 2025**: Paper on [C-to-Rust translation](https://arxiv.org/abs/2503.17741v1) is accepted at **ICECCS 2025**
+- **Jan 2025**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) is accepted at **ICLR 2025**
 
 {% include_relative _includes/publications.md %}
 

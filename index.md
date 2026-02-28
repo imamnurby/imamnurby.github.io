@@ -4,64 +4,66 @@ layout: homepage
 
 ## About Me
 
-As a PhD candidate at Singapore Management University's School of Computer Science and Information Systems, I'm fortunate to work within the RiSE Lab (Centre for Research on Intelligent Software Engineering) under the mentorship of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/#gsc.tab=0) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/).
+I am a postdoctoral researcher at [SPARTAN, National University of Singapore](https://spartan-nus.github.io/), advised by Professor [Abhik Roychoudhury](https://abhikrc.com/). My research focuses on building capable, reliable, and trustworthy AI systems for software engineering, with an emphasis on coding agents and program analysis.
 
-My research focuses on applying language models to solve domain-specific challenges, driven by the belief that each task requires a tailored approach for optimal results. Through my dissertation titled "Transformer-based Deep Learning for Code Generation and Translation," I tackle the complexities of leveraging neural networks for code generation and translation tasks in various domains. Beyond my research work, I contribute to the open source research community. I join the BigCode community in 2024 and I am fortunate to have the opportunity to help develop BigCodeBench, a comprehensive evaluation framework for large language models on coding tasks.
+I received my PhD from Singapore Management University under the mentorship of Professor [Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/) and Professor [David Lo](http://www.mysmu.edu/faculty/davidlo/).
 
-**I am actively seeking industry or postdoctoral positions where I can apply my expertise in applied deep learning**. My ideal role would allow me to bridge cutting-edge research with practical applications, continuing to develop techniques for adapting large language models to specialized domains. If you're interested in discussing potential collaborations or opportunities, please don't hesitate to reach out via email.
+---
+
+## Research Interests
+- **Evaluation of LLMs and coding agents**: I view evaluation as a foundation for progress in this field. My work focuses on two complementary dimensions: efficacy, which measures performance on realistic software engineering tasks (e.g., [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)); and trustworthiness, which measures how explainable, reliable and dependable model predictions are in practice.
+- **Novel scaffolding for domain-specific tasks**: I develop task-specific scaffolding to combine LLMs with other techniques for specialized settings. This includes techniques such as retrieval ([MSR 2023](https://imamnurby.github.io/assets/files/arduprog_msr23.pdf); [ASE 2023](https://imamnurby.github.io/assets/files/arduprog_ase23.pdf)) and program analysis ([TSE](https://ieeexplore.ieee.org/abstract/document/10521881); [ICECCS'25](https://arxiv.org/abs/2503.17741v1)).
+- **Empirical studies of LLM behavior**: I conduct empirical analyses to better understand where current approaches succeed, where they fail, and what design choices improve reliability in practice (e.g., [EMSE submission](https://imamnurby.github.io/assets/files/spatch_emse.pdf); [arXiv 2024](https://arxiv.org/pdf/2401.07466)).
+
+---
 
 ## News
-- **April 2025**: A co-authored paper on [C-to-Rust translation](https://arxiv.org/abs/2503.17741v1) has been accepted at ICECCS 2025!
-- **January 2025**: BigCodeBench has been accepted at ICLR 2025! Congrats to the whole team!
-- **July 2024**: A co-authored paper on [LLM for compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) is accepted at Transactions on Software Engineering
-- **May 2024**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) from BigCode community is released
-- **March 2024**: I joined [BigCode](https://www.bigcode-project.org/) community and contributed to BigCodeBench
-- **January 2024**: My side project on instruction fine-tuning has been published on [arXiv](https://arxiv.org/pdf/2401.07466)
+
+- **Apr 2025**: Paper on [C-to-Rust translation](https://arxiv.org/abs/2503.17741v1) accepted at **ICECCS 2025**
+- **Jan 2025**: [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) accepted at **ICLR 2025**
+- **Jul 2024**: Co-authored paper on [LLM-assisted compiler bug isolation](https://ieeexplore.ieee.org/abstract/document/10521881) accepted at **IEEE Transactions on Software Engineering**
+- **May 2024**: BigCodeBench publicly released by the [BigCode](https://www.bigcode-project.org/) community
+- **Jan 2024**: Preprint on instruction fine-tuning published on [arXiv](https://arxiv.org/pdf/2401.07466)
 
 {% include_relative _includes/publications.md %}
 
-## Services and Volunteers
-* **Student Volunteer**, ICLR 2025
-* **Senior Teaching Assistant for CS708 Mobile and Distributed Systems**, January 2025 - Present, SMU
-* **Senior Teaching Assistant for IS453 Financial Analytics**, January 2025 - Present, SMU
-* **Senior Teaching Assistant for CS462 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
-* **Senior Teaching Assistant for IS614 Internet of Things: Technology and Applications**, August 2024 - December 2024, SMU
-* **Student Volunteer**, WWW 2024
-* **Student Volunteer**, ICSE 2023
-* **Senior Teaching Assistant for CS422 Reasoning, Planning, and Learning under Uncertainty**, August 2023 - December 2023, SMU
-* **Senior Teaching Assistant for IS787 Advanced Research Topics in Information Systems 2**, January 2023 - May 2023, SMU
-* **Head of Embedded System Assistants**, January 2019 - May 2019, ITB
-* **Teaching Assistant for Digital System Design**, August 2018 - December 2018, ITB
+---
 
-<!-- ## Writings
-* **[2023-11-29]** Positional Embedding in Deep Learning [link]('/writings/position_embed.md') -->
+## Service & Teaching
 
-## Work Experiences  
+**Program Committees & Volunteering**
+- Student Volunteer — ICLR 2025, WWW 2024, ICSE 2023
 
-* **Research Intern**
-  * July 2019 - August 2019
-  * National Taiwan University of Science and Technology
-  * Supervisor: Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ&hl=zh-TW&inst=14102473421921925766)
-  * Topic: Software-Defined Base Station
-  
-* **IoT Engineer Intern**
-  * May 2018 - August 2018
-  * PT Lentera Bumi Nusantara, Indonesia
+**Teaching (Singapore Management University)**
+- Senior TA, CS708 Mobile and Distributed Systems — Jan 2025–Present
+- Senior TA, IS453 Financial Analytics — Jan 2025–Present
+- Senior TA, CS462 / IS614 Internet of Things — Aug–Dec 2024
+- Senior TA, CS422 Reasoning, Planning, and Learning under Uncertainty — Aug–Dec 2023
+- Senior TA, IS787 Advanced Research Topics in Information Systems 2 — Jan–May 2023
 
-## Organization Experiences
+**Earlier Teaching (Institut Teknologi Bandung)**
+- Head of Embedded System Assistants — Jan–May 2019
+- Teaching Assistant, Digital System Design — Aug–Dec 2018
 
-* **Head of Project Management Division in Telecommunication Engineering Student Association**
-  * February 2018 - February 2019
-  * Institut Teknologi Bandung
+---
 
-* **Team Captain of Firefighting Robotic Team**
-  * August 2017 - August 2018
-  * Institut Teknologi Bandung
+## Experience
 
-* **Team Manager of Firefighting Robotic Team**
-  * August 2017 - August 2018
-  * Institut Teknologi Bandung
+**Research Intern** · National Taiwan University of Science and Technology
+*Jul–Aug 2019 · Taipei, Taiwan*
+Investigated Software-Defined Base Station architectures under the supervision of Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ).
 
+**IoT Engineer Intern** · PT Lentera Bumi Nusantara
+*May–Aug 2018 · Indonesia*
+Contributed to IoT systems engineering and deployment in an industry setting.
 
+---
 
-<!-- {% include_relative _includes/services.md %} -->
+## Leadership & Organizations
+
+**Head of Project Management Division** · Telecommunication Engineering Student Association, ITB
+*Feb 2018–Feb 2019*
+
+**Team Captain & Manager** · Firefighting Robotics Team, ITB
+*Aug 2017–Aug 2018*
+Led the team in design, coordination, and competition strategy for autonomous firefighting robots.

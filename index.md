@@ -48,11 +48,11 @@ I received my PhD from Singapore Management University under the mentorship of P
 
 **Research Intern** · National Taiwan University of Science and Technology
 *Jul–Aug 2019 · Taiwan*
-Investigated Software-Defined Base Station architectures under the supervision of Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ).
+- Investigated Software-Defined Base Station architectures under the supervision of Professor [Ray-Guang Cheng](https://scholar.google.com/citations?user=Lg3GlmYAAAAJ).
 
 **IoT Engineer Intern** · PT Lentera Bumi Nusantara
 *May–Aug 2018 · Indonesia*
-Contributed to IoT systems engineering and deployment in an industry setting.
+- Contributed to IoT systems engineering and deployment in an industry setting.
 
 ---
 
@@ -63,4 +63,4 @@ Contributed to IoT systems engineering and deployment in an industry setting.
 
 **Team Captain & Manager** · Firefighting Robotics Team, ITB
 *Aug 2017–Aug 2018*
-Led the team in design, coordination, and competition strategy for autonomous firefighting robots.
+- Led the team in design, coordination, and competition strategy for autonomous firefighting robots.
